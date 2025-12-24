@@ -14,23 +14,31 @@ Add the following to your GitHub Profile `README.md`:
 
 ### Terminal Style (Default)
 
+![Views](https://giews.fra.appwrite.run/xkaper001-giews/terminal)
+
 ```markdown
-![Views](https://694bb3e20002f1f0c410.fra.appwrite.run/YOUR_USERNAME_OR_ID/terminal)
+![Views](https://giews.fra.appwrite.run/YOUR_USERNAME_OR_ID/terminal)
 ```
 
 ### Glitch Style (Coming Soon)
 
+![Views](https://giews.fra.appwrite.run/xkaper001-giews/glitch)
+
 ```markdown
-![Views](https://694bb3e20002f1f0c410.fra.appwrite.run/YOUR_USERNAME_OR_ID/glitch)
+![Views](https://giews.fra.appwrite.run/YOUR_USERNAME_OR_ID/glitch)
 ```
 
 ### Centered
 
 To center the badge, use HTML:
 
+<p align="center">
+  <img src="https://giews.fra.appwrite.run/xkaper001-giews/terminal" alt="Views"/>
+</p>
+
 ```html
 <p align="center">
-  <img src="https://694bb3e20002f1f0c410.fra.appwrite.run/YOUR_USERNAME_OR_ID/terminal" alt="Views"/>
+  <img src="https://giews.fra.appwrite.run/YOUR_USERNAME_OR_ID/terminal" alt="Views"/>
 </p>
 ```
 
